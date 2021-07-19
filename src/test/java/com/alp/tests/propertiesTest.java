@@ -1,12 +1,7 @@
 package com.alp.tests;
 
 import com.alp.utilities.ConfigurationReader;
-import com.alp.utilities.Driver;
 import com.alp.utilities.TestBase;
-import com.alp.utilities.WebDriverFactory;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
 public class propertiesTest extends TestBase {
